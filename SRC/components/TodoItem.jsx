@@ -33,7 +33,7 @@ function TodoItem({ task, onToggle, onDelete }) {
         Удалить
       </button>
     </li>
-  );
+  )
 }
 
-export default TodoItem;
+export default TodoItem

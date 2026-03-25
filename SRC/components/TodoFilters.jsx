@@ -30,7 +30,7 @@ function TodoFilters({ filter, onFilterChange, activeCount }) {
         ))}
       </div>
     </div>
-  );
+  )
 }
 
-export default TodoFilters;
+export default TodoFilters
